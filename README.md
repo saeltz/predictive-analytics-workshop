@@ -3,6 +3,8 @@ Jupyter notebook for a workshop on Predictive Analytics with Python held at [Pic
 
 Updated for an online workshop for the working group on artificial intelligence of [D64](https://d-64.org/) in February 2021.
 
+Uses the Human Resource dataset found on [Kaggle](https://www.kaggle.com/rhuebner/human-resources-data-set).
+
 ## How To
 
 1. Clone this project
